@@ -10,3 +10,5 @@ This repo is only made to know how to create a repo on Git and push code on GitH
 8. git commit -m "write your commit here "
 9. git push origin main   this will push your code to the remote repo
 10. Refresh your repo and check your code in your repo
+
+11. If your code is not pushed then again repeat the steps to push the code 
