@@ -1,4 +1,4 @@
-"# WMA-6" 
+
 This repo is only made to know how to create a repo on Git and push code on GitHub.
 1.  We have to create a repo in GitHub
 2. Create a folder with your project name
